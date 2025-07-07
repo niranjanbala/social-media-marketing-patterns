@@ -76,6 +76,13 @@ These patterns follow a **community-first approach**:
 - Social media growth tactics
 - Influencer partnership strategies
 
+## AI-Enhanced Framework Documents
+
+This repository includes comprehensive AI-enhanced frameworks that provide strategic guidance for building intelligent social media marketing systems:
+
+### **[Intelligent Social Ecosystem](intelligent-social-ecosystem.md)**
+Complete framework for building community-centric social intelligence systems that create authentic communities, drive meaningful engagement, and foster genuine relationships through strategic AI integration and foundational social principles.
+
 ## Contributing
 
 Found an issue or want to improve a pattern?
